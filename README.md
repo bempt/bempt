@@ -1,6 +1,8 @@
-<h1>Hi, I'm Bennett! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Bennett!</h1>
 
 
+
+<h2><a href="https://www.linkedin.com/in/bennett-newhook/overlay/1635499004110/single-media-viewer?type=DOCUMENT&profileId=ACoAAByjRxsBF93zL_wA2JRHN5cIv6U80JBkbiw&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7xHMseU3STGJ%2BcdLJUtXXA%3D%3D">📄 Resumé</a></h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
