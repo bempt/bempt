@@ -2,13 +2,6 @@
 
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Exploratory Data Analysis (EDA)</b>
-  - [Cleaning and analyzing data on Canada's opioid crisis.](https://github.com/bempt/Opioids-in-Canada-EDA)
-
-
-
 <h2>📄 Resumé</h2>
 - <a href="https://www.linkedin.com/in/bennett-newhook/">My updated resumé can be found on LinkedIn!</a>
   
