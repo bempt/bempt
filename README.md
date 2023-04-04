@@ -1,12 +1,13 @@
 <h1>Hi, I'm Bennett!</h1>
-
-
-
-<h2>📄 Resumé</h2>
-- <a href="https://github.com/bempt/resume/blob/main/Bennett_Newhook_Resume.pdf">Current resume, as of 2023-04.</a>
   
+  
+<h2>✍️ Articles</h2>
+- <a href="https://medium.com/a-chatbots-life/building-a-bot-that-sends-dog-pictures-in-20-minutes-b2e2fbee0823" target="_blank">Building a Bot that Sends Dog Pictures in 20 Minutes</a>
 
 
+<h2><a href="https://github.com/bempt/resume/blob/main/Bennett_Newhook_Resume.pdf">📄 Resumé</h2>
+
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BennettNewhook | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
