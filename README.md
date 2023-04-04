@@ -2,7 +2,7 @@
   
   
 <h2>✍️ Articles</h2>
-- <a href="https://medium.com/a-chatbots-life/building-a-bot-that-sends-dog-pictures-in-20-minutes-b2e2fbee0823" target="_blank">Building a Bot that Sends Dog Pictures in 20 Minutes: published in Chatbots Life</a>
+- <a href="https://medium.com/a-chatbots-life/building-a-bot-that-sends-dog-pictures-in-20-minutes-b2e2fbee0823" onclick="window.open(this.href,'_blank');return false;">Building a Bot that Sends Dog Pictures in 20 Minutes</a>
 
 
 <h2><a href="https://github.com/bempt/resume/blob/main/Bennett_Newhook_Resume.pdf">📄 Resumé</h2>
