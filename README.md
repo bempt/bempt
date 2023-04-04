@@ -3,7 +3,7 @@
 
 
 <h2>📄 Resumé</h2>
-- <a href="https://www.linkedin.com/in/bennett-newhook/">My updated resumé can be found on LinkedIn!</a>
+- <a href="https://github.com/bempt/resume/blob/main/Bennett_Newhook_Resume.pdf">Current resume, as of 2023-04.</a>
   
 
 
