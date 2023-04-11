@@ -2,8 +2,8 @@
 
 ![Project Count](https://komarev.com/ghpvc/?username=bempt&color=2ea44f) ![](https://img.shields.io/static/v1?label=Project+count&message=2&color=2ea44f)
 
-- I'm pursuing a Master's in Mechanical Engineering (M.Eng) in the Intelligent Systems Lab (ISLab) at Memorial University of Newfoundland (MUN).
-- My research is focused on adversarial domain adaptation for aerial semantic segmentation.
+- Master's in Mechanical Engineering (M.Eng) student in the Intelligent Systems Lab (ISLab) at Memorial University of Newfoundland (MUN).
+- My research: adversarial domain adaptation for aerial semantic segmentation.
 - <a href="https://github.com/bempt/resume/blob/main/Bennett_Newhook_Resume.pdf">Check out my resumé!
   
 <h3> :busts_in_silhouette: Let's connect</h3>
