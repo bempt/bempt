@@ -4,7 +4,7 @@
 
 - Master's in Mechanical Engineering (M.Eng) student in the Intelligent Systems Lab (ISLab) at Memorial University of Newfoundland (MUN).
 - My research: adversarial domain adaptation for aerial semantic segmentation.
-- <a href="https://github.com/bempt/resume/blob/main/Resume - Bennett Newhook.pdf">Check out my resumé!
+- <a href="https://github.com/bempt/resume/blob/main/Resume_Bennett_Newhook.pdf">Check out my resumé!
   
 <h3> :busts_in_silhouette: Let's connect</h3>
 <div>
