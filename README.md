@@ -8,12 +8,15 @@
   
 <h3> :busts_in_silhouette: Let's connect</h3>
 <div>
-    <a href="https://www.linkedin.com/in/bennett-newhook/" target="_blank">
+    <a href="https://linktr.ee/bennettnewhook" target="_blank">
+        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+    </a>&nbsp
+    <!-- <a href="https://www.linkedin.com/in/bennett-newhook/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>&nbsp
     <a href="https://medium.com/@bennettnewhook/" target="_blank">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a>&nbsp
+    </a>&nbsp -->
 </div>
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bempt)](https://github.com/bempt) -->
@@ -31,7 +34,7 @@ ___
 ## Applied Data Science :bar_chart:
 | Title | Article | Repo |
 | --- | --- | --- |
-%| The Canadian Opioid Crisis: Disaster Explored | - | [:link:](https://github.com/bempt/Opioids-in-Canada-EDA) |
+| The Canadian Opioid Crisis: Disaster Explored | - | [:link:](https://github.com/bempt/Opioids-in-Canada-EDA) |
 
 
 ___
