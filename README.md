@@ -31,7 +31,7 @@ ___
 ## Applied Data Science :bar_chart:
 | Title | Article | Repo |
 | --- | --- | --- |
-| The Canadian Opioid Crisis: Disaster Explored | - | [:link:](https://github.com/bempt/Opioids-in-Canada-EDA) |
+%| The Canadian Opioid Crisis: Disaster Explored | - | [:link:](https://github.com/bempt/Opioids-in-Canada-EDA) |
 
 
 ___
