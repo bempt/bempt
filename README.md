@@ -1,59 +1,21 @@
-<h1>Hi, I'm Bennett!</h1>
+## Hi, I'm Bennett
 
-![Project Count](https://komarev.com/ghpvc/?username=bempt&color=2ea44f) ![](https://img.shields.io/static/v1?label=Project+count&message=2&color=2ea44f)
+[![Website](https://img.shields.io/badge/Website-bennettnewhook.com-37597A?style=for-the-badge)](https://bennettnewhook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/legalautomation/)
 
-- Master's in Mechanical Engineering (M.Eng) student in the Intelligent Systems Lab (ISLab) at Memorial University of Newfoundland (MUN).
-- My research: adversarial domain adaptation for aerial semantic segmentation.
-- <a href="https://github.com/bempt/resume/blob/main/Resume_Bennett_Newhook.pdf">Check out my resumé!
-  
-<h3> :busts_in_silhouette: Let's connect</h3>
-<div>
-    <a href="https://linktr.ee/bennettnewhook" target="_blank">
-        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-    </a>&nbsp
-    <!-- <a href="https://www.linkedin.com/in/bennett-newhook/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>&nbsp
-    <a href="https://medium.com/@bennettnewhook/" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a>&nbsp -->
-</div>
+Engineer and founder based in Newfoundland, Canada. I build small, focused tools that turn a hard technical problem into something that does useful work, reliably. My work runs across AI automation and open-source intelligence.
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bempt)](https://github.com/bempt) -->
+### What I'm building
 
-___
+- **[Outport AI](https://outport.ai)** is a practical AI automation studio: conference automation, CRM reactivation, workflow automation, and lead response.
+- **[Digital Hound](https://digitalhound.co)** is an open-source intelligence practice for law firms and the corporate clients they advise. Defensible, fully-cited research drawn only from lawful, publicly available sources.
+- **[OutportReviews](https://outportreviews.com)** is a local-SEO and online-reputation service that helps small businesses earn more genuine reviews.
 
-## :book: Portfolio Table of Contents
+### Background
 
-1.  [Applied Data Science](#applied-data-science)
-2.  [Chatbots](#chatbots)
+Engineer by training, with a background in mechanical and mechatronics engineering from Memorial University of Newfoundland and a Master of Engineering in progress focused on applied AI. Research work spanning AI for autonomous systems and satellite guidance, navigation, and control.
 
+### Elsewhere
 
-___
-<a name="applied-data-science"></a>
-## Applied Data Science :bar_chart:
-| Title | Article | Repo |
-| --- | --- | --- |
-| The Canadian Opioid Crisis: Disaster Explored | - | [:link:](https://github.com/bempt/Opioids-in-Canada-EDA) |
-
-
-___
-<a name="chatbots"></a>
-## Chatbots :robot:
-| Title | Article | Repo |
-| --- | --- | --- |
-| Building a Bot that Sends Dog Pictures in 20 Minutes | [:link:](https://medium.com/a-chatbots-life/building-a-bot-that-sends-dog-pictures-in-20-minutes-b2e2fbee0823)  | - |
-
-___
-
-  
-
-
-
-
-
-
-<!--
-| Placeholder | [:link:](article_link) | [:link:](github_link) |
-<a name=" "></a>
--->
+- Website: [bennettnewhook.com](https://bennettnewhook.com)
+- LinkedIn: [in/legalautomation](https://www.linkedin.com/in/legalautomation/)
